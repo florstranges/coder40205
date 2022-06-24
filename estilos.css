@@ -15,20 +15,20 @@
 } */
 
 .headerAnim{
-    background: linear-gradient(to right, blue, rgba(0, 0, 255, 0.308));
+    background: linear-gradient(to right, rgb(255, 140, 0), rgba(229, 85, 7, 0.308));
     /* background-image: linear-gradient(to top, blue, green); */
     grid-area: header;
 }
 
 .mainAnimacion{
     grid-area: main;
-    background-color: #A8DADC;
+    background-color: orange;
     padding: 50px;
 }
 
 .sectionAnimacion{
     grid-area: section;
-    background-color: #457B9D;
+    background-color: orangered;
     padding: 50px;
 }
 
