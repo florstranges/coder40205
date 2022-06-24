@@ -34,8 +34,8 @@
 
 .footerAnimacion{
     grid-area: footer;
-    background-color: #1D3557;
-    height: 60px;
+    background-color: orange;
+    height: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
