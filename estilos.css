@@ -23,7 +23,7 @@
 .mainAnimacion{
     grid-area: main;
     background-color: orange;
-    padding: 50px;
+    padding: 150px;
 }
 
 .sectionAnimacion{
